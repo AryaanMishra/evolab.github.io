@@ -1,5 +1,7 @@
 # EvoLab Website
 
+https://aryaanmishra.github.io/evolab.github.io/
+
 This is the official website for the EvoLab research group, built with Next.js, React 19, TypeScript, and Tailwind CSS.
 
 ## Getting Started
