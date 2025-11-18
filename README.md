@@ -116,7 +116,3 @@ To enable GitHub Pages:
 - Form validation with Zod
 - Optimized images with next/image
 - Smooth animations with Framer Motion
-
-## License
-
-Private project
